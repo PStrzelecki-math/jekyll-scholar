@@ -7,9 +7,9 @@ module Jekyll
       'locale'                 => 'en',
 
       # Keys used to sort bibliography
-      'sort_by'                => 'none',
+      'sort_by'                => 'year',
       # Order used to sort biobliography
-      'order'                  => 'ascending',
+      'order'                  => 'descending',
       'group_by'               => 'none',
       'group_order'            => 'ascending',
       # HTML tags used for bibliography group names
